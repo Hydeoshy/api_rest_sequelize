@@ -8,3 +8,4 @@ btn.addEventListener("click", function(e){
     
     console.log(value);
 })
+
