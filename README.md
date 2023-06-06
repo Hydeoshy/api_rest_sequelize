@@ -1,3 +1,3 @@
 # api_rest_sequelize
 
-Api teste para utilizar no trabalho da faculdade.
+Api teste para utilizar na upx.
